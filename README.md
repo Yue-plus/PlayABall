@@ -2,6 +2,8 @@
 
 **在线体验：<https://PlayABall.YuePlus.ink/>**
 
+操作：<kbd>W</kbd><kbd>A</kbd><kbd>S</kbd><kbd>D</kbd> 移动
+
 参考 Unity 官方教程制作：
 
 - [[Unity教程]-Roll-a-Ball教程（一）建立游戏环境](https://www.bilibili.com/video/BV1jK4y1G7g4)
